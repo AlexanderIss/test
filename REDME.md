@@ -1,2 +1,2 @@
 # Hello, world!
-## WTF?
+## I stusy in Netology
